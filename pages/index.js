@@ -12,13 +12,8 @@ export default function Home() {
 
       <main>
 
-    <img> var img = document.createElement("img");
-    img.src = "logo.png";
+  <img src="logo.png" alt="WEB34Freedom" >
 
-    var div = document.getElementById("x");
-    div.appendChild(img);
-    //block.setAttribute("style", "text-align:center"); 
-    </img>
   
   <h1 className="title"> Follow us <username>@WEB3forFreedom</username> </h1>
     
