@@ -11,9 +11,6 @@ export default function Home() {
       </Head>
 
       <main>
-
-  <img src="logo.png" alt="WEB34Freedom" >
-
   
   <h1 className="title"> Follow us <username>@WEB3forFreedom</username> </h1>
     
