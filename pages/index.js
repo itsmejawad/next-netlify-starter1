@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header <h1> className="title"> Follow us <username>@WEB3forFreedom</username> </h1>
+  <h1 className="title"> Follow us <username>@WEB3forFreedom</username> </h1>
     
-    </Header>
+   
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
