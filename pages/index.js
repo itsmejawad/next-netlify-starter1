@@ -20,7 +20,7 @@ export default function Home() {
     
    
         <p className="description">
-          <code>hi@web3forfreedom.com</code>
+          <code> <a href="mailto:hi@web3forfreedom.com">hi@web3forfreedom.com</a> </code>
         </p>
       </main>
 
