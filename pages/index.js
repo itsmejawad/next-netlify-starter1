@@ -15,7 +15,7 @@ export default function Home() {
     
    
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Email us <code>hi@web3forfreedom.com</code>
         </p>
       </main>
 
