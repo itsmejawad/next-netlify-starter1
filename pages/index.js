@@ -15,7 +15,8 @@ export default function Home() {
     <logo className={styles.WEB3forFreedomLogo}>
   <img src="/logo.png" alt="WEB3forFreedom" className={styles.logo} />
     </logo>
-  <h1 className="title"> Follow us <username>@WEB3forFreedom</username> </h1>
+  <h1 className="title"> Follow us <a className="username" href="https://www.instagram.com/web3forfreedom">
+    @WEB3forFreedom</a> </h1>
     
    
         <p className="description">
