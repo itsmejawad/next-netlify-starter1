@@ -12,12 +12,13 @@ export default function Home() {
 
       <main>
 
-    var img = document.createElement("img");
+    <img> var img = document.createElement("img");
     img.src = "logo.png";
 
     var div = document.getElementById("x");
     div.appendChild(img);
-    //block.setAttribute("style", "text-align:center");
+    //block.setAttribute("style", "text-align:center"); 
+    </img>
   
   <h1 className="title"> Follow us <username>@WEB3forFreedom</username> </h1>
     
